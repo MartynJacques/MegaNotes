@@ -13,3 +13,12 @@ TODO: Distributed systems with Java
 
 ## Ubuntu
 gTile tiling window manager for gnome (default ubuntu)
+
+## Terminal / Shell
+The shell is a programming language where each terminal returns a command
+What happens when you type a key in your terminal? https://jvns.ca/blog/2022/07/20/pseudoterminals/
+
+## C++
+Everything is built on C++ - https://twitter.com/lefticus/status/1551204475599089665?s=20&t=BtXAdDYQr4UId2HyH06Szw
+
+
