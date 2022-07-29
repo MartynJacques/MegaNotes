@@ -21,4 +21,7 @@ What happens when you type a key in your terminal? https://jvns.ca/blog/2022/07/
 ## C++
 Everything is built on C++ - https://twitter.com/lefticus/status/1551204475599089665?s=20&t=BtXAdDYQr4UId2HyH06Szw
 
+## Sockets / TCP
+https://www.bogotobogo.com/cplusplus/sockets_server_client_2.php
+
 
